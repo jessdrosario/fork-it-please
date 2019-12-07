@@ -11,7 +11,7 @@
 
   <!-- Page Content -->
   <div class="container">
-  	<div class="about-us-section" style="display: flex; flex-direction: row; justify-content: center;">
+  	<div class="about-us-section" style="display: flex; flex-direction: row; justify-content: space-between;">
   		<div class="manuel">
   			<img src="./images/baby.jpg" height="250px" width="250px">
   			<h1>Ako si Manuel</h1>
