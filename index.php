@@ -15,7 +15,7 @@
     <div class="container text-center">
       <div class="row">
         <div class="col-md-12">
-          <a class="hero-brand" href="index.html" title="Home"><img alt="Bell Logo" src="img/Freniere.jpg" width="130" height="130"></a>
+          <a class="hero-brand" href="index.html" title="Home"><img alt="Bell log" src=".jpg" width="130" height="130"></a>
         </div>
       </div>
 
