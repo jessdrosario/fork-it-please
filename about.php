@@ -16,7 +16,7 @@
   		<div class="manuel">
   			<img src="./images/baby.jpg" height="250px" width="250px">
   			<h1>Ako si Manuel</h1>
-  			<h6>I'm manuel basura man</h6>
+  			<h6>I'm manuel dakilang dev</h6>
   		</div>
   		<div class="Jess">
   			<img src="./images/baby.jpg" height="250px" width="250px">
