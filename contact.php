@@ -4,7 +4,7 @@
   <?php include_once("./components/header.php"); ?>
 
 <body>
-
+	<h1 align="center">CONTACT</h1>
   <?php 
     include_once("./components/menu.php");
   ?>
