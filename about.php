@@ -10,7 +10,26 @@
   ?>
 
   <!-- Page Content -->
-  <div class="container"></div>
+  <div class="container">
+  	<h2>Mga dakilang chicken wings</h2>
+  	<div class="about-us-section" style="display: flex; flex-direction: row; justify-content: space-between;">
+  		<div class="manuel">
+  			<img src="./images/baby.jpg" height="250px" width="250px">
+  			<h1>Ako si Manuel</h1>
+  			<h6>I'm manuel dakilang dev</h6>
+  		</div>
+  		<div class="Jess">
+  			<img src="./images/baby.jpg" height="250px" width="250px">
+  			<h1>Ako si Superman</h1>
+  			<h6>Hoping to be the best dev Evaahh</h6>
+  		</div>
+  		<div class="Michael">
+  			<img src="./images/baby.jpg" height="250px" width="250px">
+  			<h1>Hi I'm Michael!</h1>
+  			<h6>Let's plaaaaay!!~~</h6>
+  		</div>
+  	</div>
+  </div>
   <!-- /.container -->
 
  <?php include_once("./components/footer.php"); ?>
